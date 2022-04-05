@@ -1,0 +1,13 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+export const FAQ_SUCCESS = "FAQ_SUCCESS";
+export const FAQ_FAIL = "FAQ_FAIL";
+export const FAQ_DEL_SUCCESS = "FAQ_DEL_SUCCESS";
+export const FAQ_DEL_FAIL = "FAQ_DEL_FAIL";
+export const FAQ_EDIT_SUCCESS = "FAQ_DEL_SUCCESS";
+export const FAQ_EDIT_FAIL = "FAQ_DEL_FAIL";
